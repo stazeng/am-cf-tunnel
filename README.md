@@ -8,7 +8,6 @@
 - Trojan免费节点部署视频教程：[点击进入观看](https://youtu.be/1ixc2A9rchM) 
 - 优选IP和优选反代IP视频教程：[点击进入观看](https://youtu.be/pKrlfRRB0gU) 
 - 聚合节点订阅视频教程：[点击进入观看](https://youtu.be/YBO2hf96150)
-- 免费订阅：[点击进群发送关键字: 订阅](https://t.me/AM_CLUBS)
 
 ## 订阅工具 [点击进入视频教程](https://youtu.be/xGOL57cmvaw) [点进进入karing视频教程](https://youtu.be/M3vLLBWfuFg)
 - [(安卓)v2rayNG](https://github.com/2dust/v2rayNG/releases)      [(安卓)singbox](https://github.com/SagerNet/sing-box/releases)      [(苹果)singbox](https://github.com/SagerNet/sing-box/releases)      [(苹果)Hiddify](https://github.com/hiddify/hiddify-next/releases)
@@ -17,7 +16,7 @@
 
 # 免责声明
 
-本免责声明适用于 GitHub 上的 “am-cf-tunnel” 项目（以下简称“该项目”），项目链接为：https://github.com/amclubs/am-cf-tunnel
+本免责声明适用于 GitHub 上的 “am-cf-tunnel” 项目。
 
 ### 用途
 该项目被设计和开发仅供学习、研究和安全测试目的。它旨在为安全研究者、学术界人士和技术爱好者提供一个了解和实践网络通信技术的工具。
@@ -136,8 +135,6 @@
 [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)、[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
 
  # 
-<center><details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
-*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
   
 - **USDT-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
   
